@@ -1,2 +1,2 @@
 # imt2200_actividad1
-buen
+aun no hago las modificaciones, en caso de leer este mensaje favor no revisar la v2

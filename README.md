@@ -18,5 +18,5 @@ Estado del curso
 1. **Clonar el Repositorio**
    ```bash
 
-   git clone [https://github.com/esteban78009/IMT2200-Esteban-Cortes]
+   git clone https://github.com/esteban78009/IMT2200-Esteban-Cortes.git
 

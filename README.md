@@ -9,10 +9,15 @@ Actividades realizadas
 | Actividad | Descripción | Fecha |
 |-----------|-------------|-------|
 | Actividad 01 | Trabajo original desarrollado según las instrucciones dadas. | 11-08-2025 |
-| Actividad 01 v2 | Versión modificada para practicar. | 11-08-2025 |
+| Actividad 01 v2 | Versión modificada para practicar. | 11-08-2025 |         
+
+
 
 
 <img width="512" height="512" alt="Gemini_Generated_Image_eov6hgeov6hgeov6" src="https://github.com/user-attachments/assets/376ed798-86c6-4c8b-9ce5-e767e6c93282" />
+
+
+
 
 
 

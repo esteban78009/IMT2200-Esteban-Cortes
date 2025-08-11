@@ -8,8 +8,8 @@ Estado del curso
 
 | Actividad | Descripción | Fecha |
 |-----------|-------------|-------|
-| Actividad 1 | Trabajo original desarrollado según las instrucciones dadas. | 11-08-2025 |
-| Actividad 1 v2 | Versión modificada para practicar. | 11-08-2025 |
+| Actividad 01 | Trabajo original desarrollado según las instrucciones dadas. | 11-08-2025 |
+| Actividad 01 v2 | Versión modificada para practicar. | 11-08-2025 |
 
 
 

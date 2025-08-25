@@ -1,2 +1,2 @@
 # imt2200_actividad1
-aun no hago las modificaciones, en caso de leer este mensaje favor no revisar la v2
+Versión clonada de la actividad 01 donde se modifico partes del código para ver lo que sucedía 

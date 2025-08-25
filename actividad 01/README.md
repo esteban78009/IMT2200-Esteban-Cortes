@@ -1,2 +1,3 @@
 # imt2200_actividad1
-buen
+Esteban Cortes 
+Actividad para practicar el uso de jupyter 

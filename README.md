@@ -10,7 +10,8 @@ Actividades realizadas
 |-----------|-------------|-------|
 | Actividad 01 | Trabajo original desarrollado según las instrucciones dadas. | 11-08-2025 |
 | Actividad 01 v2 | Versión modificada para practicar. | 11-08-2025 |       
-| Tarea con decimas1 | Actividad dada en clases, basada en el Jupyter de la clase 3.| 12-08-2025 |         
+| Tarea con decimas1 | Actividad dada en clases, basada en el Jupyter de la clase 3.| 12-08-2025 |    
+| Tarea 1 | Tarea de análisis y ejecución de dataframes | 26-08-2025 |       
 
 
 

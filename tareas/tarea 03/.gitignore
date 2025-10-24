@@ -1,0 +1,12 @@
+data/comunas.CPG
+data/comunas.dbf
+data/comunas.prj
+data/comunas.sbn
+data/comunas.sbx
+data/comunas.shp.xml
+data/comunas.shp
+data/comunas.shx
+
+
+# para que no se suban mas datos de los necesarios en el github
+#se dejara tanto comuna como el exel
